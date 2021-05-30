@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/simple-login-system/static/css/main.93e0ebe1.chunk.css",
-    "main.js": "/simple-login-system/static/js/main.4f743d41.chunk.js",
-    "main.js.map": "/simple-login-system/static/js/main.4f743d41.chunk.js.map",
-    "runtime-main.js": "/simple-login-system/static/js/runtime-main.f0fcc8d4.js",
-    "runtime-main.js.map": "/simple-login-system/static/js/runtime-main.f0fcc8d4.js.map",
-    "static/js/2.815b1a9e.chunk.js": "/simple-login-system/static/js/2.815b1a9e.chunk.js",
-    "static/js/2.815b1a9e.chunk.js.map": "/simple-login-system/static/js/2.815b1a9e.chunk.js.map",
-    "static/js/3.a16af054.chunk.js": "/simple-login-system/static/js/3.a16af054.chunk.js",
-    "static/js/3.a16af054.chunk.js.map": "/simple-login-system/static/js/3.a16af054.chunk.js.map",
+    "main.css": "/simple-login-system/static/css/main.e16e0573.chunk.css",
+    "main.js": "/simple-login-system/static/js/main.c30d633a.chunk.js",
+    "main.js.map": "/simple-login-system/static/js/main.c30d633a.chunk.js.map",
+    "runtime-main.js": "/simple-login-system/static/js/runtime-main.fb01b1bc.js",
+    "runtime-main.js.map": "/simple-login-system/static/js/runtime-main.fb01b1bc.js.map",
+    "static/js/2.008f5427.chunk.js": "/simple-login-system/static/js/2.008f5427.chunk.js",
+    "static/js/2.008f5427.chunk.js.map": "/simple-login-system/static/js/2.008f5427.chunk.js.map",
+    "static/js/3.014fcd46.chunk.js": "/simple-login-system/static/js/3.014fcd46.chunk.js",
+    "static/js/3.014fcd46.chunk.js.map": "/simple-login-system/static/js/3.014fcd46.chunk.js.map",
     "index.html": "/simple-login-system/index.html",
-    "static/css/main.93e0ebe1.chunk.css.map": "/simple-login-system/static/css/main.93e0ebe1.chunk.css.map",
-    "static/js/2.815b1a9e.chunk.js.LICENSE.txt": "/simple-login-system/static/js/2.815b1a9e.chunk.js.LICENSE.txt"
+    "static/css/main.e16e0573.chunk.css.map": "/simple-login-system/static/css/main.e16e0573.chunk.css.map",
+    "static/js/2.008f5427.chunk.js.LICENSE.txt": "/simple-login-system/static/js/2.008f5427.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0fcc8d4.js",
-    "static/js/2.815b1a9e.chunk.js",
-    "static/css/main.93e0ebe1.chunk.css",
-    "static/js/main.4f743d41.chunk.js"
+    "static/js/runtime-main.fb01b1bc.js",
+    "static/js/2.008f5427.chunk.js",
+    "static/css/main.e16e0573.chunk.css",
+    "static/js/main.c30d633a.chunk.js"
   ]
 }
