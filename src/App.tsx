@@ -13,7 +13,7 @@ import { UserProvider } from "./UserContext";
 function App() {
   return (
     <UserProvider>
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <BrowserRouter>
         <div className="App">
           {/* <Navbar /> */}
           <div className="App-header">
