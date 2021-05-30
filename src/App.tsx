@@ -13,7 +13,7 @@ import { UserProvider } from "./UserContext";
 function App() {
   return (
     <UserProvider>
-      <BrowserRouter basename="https://mystifying-newton-d766c1.netlify.app">
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <div className="App">
           {/* <Navbar /> */}
           <div className="App-header">
