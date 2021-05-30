@@ -8,25 +8,24 @@ import { Dashboard } from "./screen/DashboardScreen";
 
 import PrivateRoute from "./components/PrivateRoute.js";
 
-
 import { UserProvider } from "./UserContext";
 
 function App() {
   return (
     <UserProvider>
-      <div className="App">
-        {/* <Navbar /> */}
-        <div className="App-header">
-          <HashRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
+        <div className="App">
+          {/* <Navbar /> */}
+          <div className="App-header">
             <Switch>
               <Route path="/" component={Login} exact />
               <Route path="/signup" component={Signup} />
               <PrivateRoute path="/dashboard" component={Dashboard} />
               <h1>Error 404</h1>
             </Switch>
-          </HashRouter>
+          </div>
         </div>
-      </div>
+      </BrowserRouter>
     </UserProvider>
   );
 }
