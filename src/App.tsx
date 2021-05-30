@@ -13,10 +13,7 @@ import { UserProvider } from "./UserContext";
 function App() {
   return (
     <UserProvider>
-      <BrowserRouter
-        basename="https://kiranojhanp.github.io/simple-login-system
-"
-      >
+      <BrowserRouter basename="https://mystifying-newton-d766c1.netlify.app">
         <div className="App">
           {/* <Navbar /> */}
           <div className="App-header">
