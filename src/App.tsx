@@ -1,5 +1,5 @@
 import React from "react";
-import { Route, Switch, BrowserRouter } from "react-router-dom";
+import { Route, Switch, BrowserRouter, HashRouter } from "react-router-dom";
 import "./App.css";
 
 import { Login } from "./screen/LoginScreen";
@@ -17,14 +17,14 @@ function App() {
       <div className="App">
         {/* <Navbar /> */}
         <div className="App-header">
-          <BrowserRouter>
+          <HashRouter>
             <Switch>
               <Route path="/" component={Login} exact />
               <Route path="/signup" component={Signup} />
               <PrivateRoute path="/dashboard" component={Dashboard} />
               <h1>Error 404</h1>
             </Switch>
-          </BrowserRouter>
+          </HashRouter>
         </div>
       </div>
     </UserProvider>
