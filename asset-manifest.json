@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/simple-login-system/static/css/main.e16e0573.chunk.css",
-    "main.js": "/simple-login-system/static/js/main.62c8887b.chunk.js",
-    "main.js.map": "/simple-login-system/static/js/main.62c8887b.chunk.js.map",
+    "main.js": "/simple-login-system/static/js/main.66efd963.chunk.js",
+    "main.js.map": "/simple-login-system/static/js/main.66efd963.chunk.js.map",
     "runtime-main.js": "/simple-login-system/static/js/runtime-main.fb01b1bc.js",
     "runtime-main.js.map": "/simple-login-system/static/js/runtime-main.fb01b1bc.js.map",
-    "static/js/2.499d2c9a.chunk.js": "/simple-login-system/static/js/2.499d2c9a.chunk.js",
-    "static/js/2.499d2c9a.chunk.js.map": "/simple-login-system/static/js/2.499d2c9a.chunk.js.map",
+    "static/js/2.008f5427.chunk.js": "/simple-login-system/static/js/2.008f5427.chunk.js",
+    "static/js/2.008f5427.chunk.js.map": "/simple-login-system/static/js/2.008f5427.chunk.js.map",
     "static/js/3.014fcd46.chunk.js": "/simple-login-system/static/js/3.014fcd46.chunk.js",
     "static/js/3.014fcd46.chunk.js.map": "/simple-login-system/static/js/3.014fcd46.chunk.js.map",
     "index.html": "/simple-login-system/index.html",
     "static/css/main.e16e0573.chunk.css.map": "/simple-login-system/static/css/main.e16e0573.chunk.css.map",
-    "static/js/2.499d2c9a.chunk.js.LICENSE.txt": "/simple-login-system/static/js/2.499d2c9a.chunk.js.LICENSE.txt"
+    "static/js/2.008f5427.chunk.js.LICENSE.txt": "/simple-login-system/static/js/2.008f5427.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fb01b1bc.js",
-    "static/js/2.499d2c9a.chunk.js",
+    "static/js/2.008f5427.chunk.js",
     "static/css/main.e16e0573.chunk.css",
-    "static/js/main.62c8887b.chunk.js"
+    "static/js/main.66efd963.chunk.js"
   ]
 }
